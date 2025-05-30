@@ -1,5 +1,5 @@
 # Ex02 Django Polls
-## Date: 26/05/2025
+## Date: 30/05/2025
 
 ## AIM
 To develop a Django application to implement polls.
@@ -95,13 +95,13 @@ urlpatterns = [
 
 
 ## OUTPUT
+![Screenshot 2025-05-30 144402](https://github.com/user-attachments/assets/fa4cf2b7-6d83-470c-9dec-42370c61469c)
 
-![Screenshot (5)](https://github.com/user-attachments/assets/2175abe7-5bff-4c15-94ec-0e23d27f23e6)
-![Screenshot (6)](https://github.com/user-attachments/assets/1ca47d17-46dc-4a9b-93b8-5d3f89a994d4)
-![Screenshot (7)](https://github.com/user-attachments/assets/ad52cf91-7f8e-4d5a-9310-53853e74b49f)
+
 
 ## COURSERA GRADE
-![Screenshot (8)](https://github.com/user-attachments/assets/c9a91649-161f-467c-af3c-a1f128ded77c)
+
+![Screenshot (25)](https://github.com/user-attachments/assets/9f2109f8-d215-40ee-9237-216c70e16d8d)
 
 
 ## RESULT
